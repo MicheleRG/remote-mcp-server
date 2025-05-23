@@ -1,5 +1,7 @@
 # Remote MCP Server on Cloudflare
 
+For a detailed explanation of this project, please see [PROJECT_EXPLANATION.md](PROJECT_EXPLANATION.md).
+
 Let's get a remote MCP server up-and-running on Cloudflare Workers complete with OAuth login!
 
 ## Develop locally
